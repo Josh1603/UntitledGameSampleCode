@@ -1,0 +1,1 @@
+Sample code of the state machine for the untitled 2248 selection game
